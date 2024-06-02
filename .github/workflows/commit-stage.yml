@@ -3,7 +3,7 @@ on: push
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: mk-paek/catalog-service         # mk-paek/catalog-service
+  IMAGE_NAME: mk-paek/catalog-service2         # mk-paek/catalog-service
   VERSION: latest
 
 jobs:
